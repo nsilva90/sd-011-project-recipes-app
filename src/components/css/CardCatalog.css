@@ -1,0 +1,15 @@
+.supply-card {
+  background-color: white;
+  border: solid rgb(117, 117, 117) 1px;
+  border-radius: 5px;
+  color: black;
+  font-family: Times , serif;
+  font-size: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+.supply-card .supply-img {
+  align-items: center;
+  width: 80%;
+}

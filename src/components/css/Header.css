@@ -1,0 +1,27 @@
+.header-container {
+  background: white;
+  color: black;
+  font-size: 30px;
+  padding: 15px;
+  text-align: center;
+}
+
+.header {
+  display: flex;
+  flex-wrap: wrap;
+  font-family: Times , serif;
+  justify-content: space-between;
+}
+
+.search-bar {
+  width: 100%;
+}
+
+.search-bar .input-search {
+  width: 100%;
+}
+
+.search-bar .search-prop {
+  display: flex;
+  justify-content: space-between;
+}

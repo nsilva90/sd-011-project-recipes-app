@@ -1,0 +1,10 @@
+.recomendations {
+  display: flex;
+  overflow-x: auto;
+}
+
+.recomendations .recomendations-card {
+  flex: 1 0 21%;
+  margin: 0 11px;
+  width: 150px;
+}
